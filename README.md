@@ -11,13 +11,6 @@ I'm a BCA student and passionate full-stack developer focused on building **real
 **Database:** MongoDB
 **Tools & Concepts:** Git, GitHub, Postman, JWT, RBAC, MVC Architecture
 
-### 🚀 What I Do
-
-* Build full-stack applications using the **MERN stack**
-* Design and develop **RESTful APIs & backend systems**
-* Implement authentication, authorization, and secure application workflows
-* Work on real-world projects to strengthen my engineering fundamentals
-
 ### 📌 Currently
 
 🌱 Improving my **DSA & problem-solving skills**
